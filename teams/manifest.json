@@ -11,7 +11,8 @@
       "termsOfUseUrl": "https://www.microsoft.com/en-us/servicesagreement"
     },
     "name": {
-      "short": "SPFX Teams Together"
+      "short": "SPFX Teams Together",
+      "full": "SPFX Teams Together long"
     },
     "description": {
       "short": "SPFX Teams Together short description",
